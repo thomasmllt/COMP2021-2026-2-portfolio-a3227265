@@ -1,6 +1,4 @@
-﻿using System;
-
-class PayrollCalculator
+﻿class PayrollCalculator
 {
     private const double TaxRate = 0.2;
 
