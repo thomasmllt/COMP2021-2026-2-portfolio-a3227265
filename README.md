@@ -36,3 +36,15 @@ For instance, to run the intro topic project :
 cd "Week1/PracA/IntroTopic"
 dotnet run
 ```
+
+## Reflections
+
+### Week 2 / Prac A / Task 4
+
+- What differences did you observe moving from procedural to class-based design?
+
+I noticed the code is much more encapsulated, organized and reusable. 
+
+- How does static typing affect your workflow?
+
+It detects errors earlier thus saving time.
