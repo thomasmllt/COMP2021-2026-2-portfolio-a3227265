@@ -6,7 +6,7 @@
 - Course: COMP2021
 
 ## Overview
-This portfolio evaluates your ongoing engagement, professional practice, and technical development across the semester.
+This portfolio evaluates your ongoing engagement, professional practice, and technical development across the semester. I enrolled late (Week 3) so the timestamps of my commits for the first practicals aren't right. 
 
 ## Repository Structure
 
